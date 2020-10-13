@@ -1,6 +1,6 @@
 
     <!--início do fim-->
-    <footer class="container alert-success py-5">
+    <footer class="container alert-success py-6">
         <div style="background-color:#95E5F5;">
             <div style="background-color:#F2D338;">
                 <div class="row">
